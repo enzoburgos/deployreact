@@ -5,6 +5,7 @@ function App() {
   return (
     <div>
        hola {minombre}
+       hola de nuevo
     </div>
    
   )
